@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3mtec\\Desktop\\AppLoginantigo\\AppLogin\\AppLogin.csproj": {}
+    "C:\\Users\\3mtec\\Desktop\\AppLoginNovo\\AppLogin\\AppLogin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\3mtec\\Desktop\\AppLoginantigo\\AppLogin\\AppLogin.csproj": {
+    "C:\\Users\\3mtec\\Desktop\\AppLoginNovo\\AppLogin\\AppLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3mtec\\Desktop\\AppLoginantigo\\AppLogin\\AppLogin.csproj",
+        "projectUniqueName": "C:\\Users\\3mtec\\Desktop\\AppLoginNovo\\AppLogin\\AppLogin.csproj",
         "projectName": "AppLogin",
-        "projectPath": "C:\\Users\\3mtec\\Desktop\\AppLoginantigo\\AppLogin\\AppLogin.csproj",
+        "projectPath": "C:\\Users\\3mtec\\Desktop\\AppLoginNovo\\AppLogin\\AppLogin.csproj",
         "packagesPath": "C:\\Users\\3mtec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3mtec\\Desktop\\AppLoginantigo\\AppLogin\\obj\\",
+        "outputPath": "C:\\Users\\3mtec\\Desktop\\AppLoginNovo\\AppLogin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -89,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

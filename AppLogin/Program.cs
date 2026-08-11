@@ -24,6 +24,7 @@ builder.Services.AddMvc().AddSessionStateTempDataProvider();
 
 builder.Services.AddScoped<AppLogin.Libraries.Sessao.Sessao>();
 builder.Services.AddScoped<LoginCliente>();
+builder.Services.AddScoped<LoginColaborador>();
 
 builder.Services.AddHttpContextAccessor();
 

@@ -1,3 +1,5 @@
+drop database LoginCore;
+
 create database LoginCore;
 use LoginCore;
 
@@ -10,6 +12,7 @@ Sexo char(1),
 CPF Varchar(11) not null,
 Telefone Varchar(14) not null,
 Email Varchar(50) not null,
+Senha Varchar(8) not null,
 ConfirmacaoSenha Varchar(8) not null,
 Situacao char(1) not null
 );
@@ -23,3 +26,7 @@ Senha Varchar(8) not null,
 Tipo Varchar(8) not null,
 Telefone Varchar(11) not null
 );
+
+insert into Cliente values (default, "Isabela", "2008-07-09", "M", "12345678910", "11999999999999", "fratabela@gmail.com", "12345678", "12345678", "A");
+
+insert into Colaborador values(default, "Marina", "marinanogali@gmail.com", "12345678", "Adm", "11999999999");
