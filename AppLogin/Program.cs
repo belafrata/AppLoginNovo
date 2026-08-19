@@ -1,6 +1,8 @@
 using AppLogin.Libraries.Login;
+using AppLogin.Libraries.Middleware;
 using AppLogin.Repository;
 using AppLogin.Repository.Contract;
+using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -38,6 +40,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseCookiePolicy();
 app.UseSession();
+app.UseMiddleware<ValidateAntiForgeryTokenMiddleware>();
 
 app.UseRouting();
 
