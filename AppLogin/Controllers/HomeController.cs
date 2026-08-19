@@ -1,3 +1,4 @@
+using AppLogin.Libraries.Filtro;
 using AppLogin.Libraries.Login;
 using AppLogin.Models;
 using AppLogin.Repository.Contract;
@@ -40,6 +41,7 @@ namespace AppLogin.Controllers
             }
         }
 
+        [ClienteAutorizacao]
         public IActionResult PainelCliente()
         {
             ViewBag.Nome = _loginCliente.GetCliente().Nome;
@@ -65,6 +67,7 @@ namespace AppLogin.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
+        [ClienteAutorizacao]
         public IActionResult LogoutCliente()
         {
             _loginCliente.Logout();
