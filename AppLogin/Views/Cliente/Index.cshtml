@@ -1,0 +1,66 @@
+@model IEnumerable<AppLogin.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<h1>Index</h1>
+
+<p class="btn btn-outline-primary" role="button">
+    <a asp-action="Cadastrar">
+        <span class=" fas fa-user-plus" title="Cadastro" aria-hidden="true"></span>
+        <span>Cadastrar</span>
+    </a>
+</p>
+
+<div class="table-responsive">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">@Html.DisplayNameFor(model => model.First().Nome)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.First().Id)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.First().Senha)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.First().CPF)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.First().Telefone)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.First().Email)</th>
+
+                <th scope="col">Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+        </div>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Nascimento)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Sexo)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.CPF)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Telefone)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Senha)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Situacao)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
