@@ -23,6 +23,26 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Areas/Colaborador/Views/Cliente/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcQ2xpZW50ZVxDYWRhc3RyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Areas/Colaborador/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Areas/Colaborador/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Areas/Colaborador/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Areas/Colaborador/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Areas/Colaborador/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -55,24 +75,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29sYWJvcmFkb3JcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Views/Cliente/Cadastrar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDYWRhc3RyYXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Views/Cliente/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Views/Cliente/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Views/Cliente/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Views/Cliente/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+[C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Views/Home/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3RyYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/3mtec/Desktop/AppLoginNovo/AppLogin/Views/Home/Index.cshtml]
