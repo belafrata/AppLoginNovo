@@ -27,40 +27,40 @@
                 <th scope="col">Ações</th>
             </tr>
         </thead>
+
         <tbody>
-        </div>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(model => item.Nome)
-            </td>
-            <td>
-                @Html.DisplayFor(model => item.Nascimento)
-            </td>
-            <td>
-                @Html.DisplayFor(model => item.Sexo)
-            </td>
-            <td>
-                @Html.DisplayFor(model => item.CPF)
-            </td>
-            <td>
-                @Html.DisplayFor(model => item.Telefone)
-            </td>
-            <td>
-                @Html.DisplayFor(model => item.Email)
-            </td>
-            <td>
-                @Html.DisplayFor(model => item.Senha)
-            </td>
-            <td>
-                @Html.DisplayFor(model => item.Situacao)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+            @foreach (Cliente cliente in Model)
+            {
+                <tr>
+                    <th scope="row">@cliente.Id</th>
+                    <td>@cliente.Nome</td>
+                    <td>@cliente.CPF</td>
+                    <td>@cliente.Telefone</td>
+                    <td>@cliente.Email</td>
+                    <td>@cliente.Senha</td>
+                    <td>@cliente.Situacao</td>
+
+
+                    <td>
+                        @if (cliente.Situacao == "A")
+                        {
+                            <button type="button" class="btn btn-danger">
+                                @Html.ActionLink("Desativar", "Desativar", new { id = cliente.Id },                               
+                                        new { inclick = "return confirm('Deseja realmente desativar?');" })
+                            </button>
+                        }
+                        else if (cliente.Situacao == "D")
+                        {
+                            <button type="button" class="btn btn-secondary">
+                                @Html.ActionLink("Ativar", "Ativar", new { id = cliente.Id },
+                                        new { inclick = "return confirm('Deseja realmente Ativar?');" })
+                            </button>
+                        }
+
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
