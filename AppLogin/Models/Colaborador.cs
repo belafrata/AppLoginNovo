@@ -30,5 +30,9 @@ namespace AppLogin.Models
         [Display(Name = "Tipo")]
         [Required(ErrorMessage = "O Tipo é obrigatório")]
         public string Tipo { get; set; }
+
+        [Display(Name = "Telefone")]
+        [Required(ErrorMessage = "O Telefone é obrigatório")]
+        public string Telefone { get; set; }
     }
 }

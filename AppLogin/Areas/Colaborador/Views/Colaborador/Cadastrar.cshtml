@@ -20,6 +20,24 @@
             </div>
 
             <div class="form-group">
+                <label asp-for="CPF" class="control-label"></label>
+                <input asp-for="CPF" class="form-control" />
+                <span asp-validation-for="CPF" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                    <label asp-for="Telefone" class="control-label">Telefone</label>
+                    <input type="text" asp-for="Telefone" class="form-control">
+                    <span asp-validation-for="Telefone"></span>
+            </div>
+
+            <div class="form-group">
+                    <label asp-for="Tipo" class="control-label"></label>
+                    <input type="text" asp-for="Tipo" class="form-control">
+                    <span asp-validation-for="Tipo"></span>
+            </div>
+
+            <div class="form-group">
                 <label asp-for="Email" class="control-label"></label>
                 <input asp-for="Email" class="form-control" />
                 <span asp-validation-for="Email" class="text-danger"></span>

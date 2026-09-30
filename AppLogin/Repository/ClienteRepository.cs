@@ -127,7 +127,7 @@ namespace AppLogin.Repository
                 " values (@Nome, @Nascimento, @Sexo, @CPF, @Telefone, @Email, @Senha, @Situacao)", conexao);
 
                 cmd.Parameters.Add("@Nome", MySqlDbType.VarChar).Value = cliente.Nome;
-                cmd.Parameters.Add("@Nascimento", MySqlDbType.DateTime).Value = cliente.Nascimento;
+                cmd.Parameters.Add("@Nascimento", MySqlDbType.DateTime).Value = cliente.Nascimento.ToString("yyyy/MM/dd");
                 cmd.Parameters.Add("@Sexo", MySqlDbType.VarChar).Value = cliente.Sexo;
                 cmd.Parameters.Add("@CPF", MySqlDbType.VarChar).Value = cliente.CPF;
                 cmd.Parameters.Add("@Telefone", MySqlDbType.VarChar).Value = cliente.Telefone;
