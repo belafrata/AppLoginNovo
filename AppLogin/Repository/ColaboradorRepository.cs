@@ -27,12 +27,14 @@ namespace AppLogin.Repository
             {
                 conexao.Open();
                 MySqlCommand cmd = new MySqlCommand("update Colaborador set Nome=@Nome, " +
-                    " Email=@Email, Senha=@Senha, Tipo=@Tipo Where Id=@Id ", conexao);
+                    " Email=@Email, Senha=@Senha, Telefone=@Telefone, CPF=@CPF, Tipo=@Tipo Where Id=@Id ", conexao);
 
                 cmd.Parameters.Add("@Id", MySqlDbType.VarChar).Value = colaborador.Id;
                 cmd.Parameters.Add("@Nome", MySqlDbType.VarChar).Value = colaborador.Nome;
                 cmd.Parameters.Add("@Email", MySqlDbType.VarChar).Value = colaborador.Email;
                 cmd.Parameters.Add("@Senha", MySqlDbType.VarChar).Value = colaborador.Senha;
+                cmd.Parameters.Add("@Telefone", MySqlDbType.VarChar).Value = colaborador.Telefone;
+                cmd.Parameters.Add("@CPF", MySqlDbType.VarChar).Value = colaborador.CPF;
                 cmd.Parameters.Add("@Tipo", MySqlDbType.VarChar).Value = Tipo;
                 cmd.ExecuteNonQuery();
                 conexao.Close();
@@ -127,6 +129,8 @@ namespace AppLogin.Repository
                     colaborador.Nome = (string)(dr["Nome"]);
                     colaborador.Tipo = (string)(dr["Tipo"]);
                     colaborador.Email = (string)(dr["Email"]);
+                    colaborador.CPF = (string)(dr["CPF"]);
+                    colaborador.Telefone = (string)(dr["Telefone"]);
                     colaborador.Senha = (string)(dr["Senha"]);
                 }
                 return colaborador;

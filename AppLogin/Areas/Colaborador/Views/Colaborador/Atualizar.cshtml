@@ -20,9 +20,15 @@
             </div>
 
             <div class="form-group">
-                    <label asp-for="Telefone" class="control-label">Telefone</label>
+                    <label asp-for="Telefone" class="control-label"></label>
                     <input type="text" asp-for="Telefone" class="form-control">
                     <span asp-validation-for="Telefone"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CPF" class="control-label"></label>
+                <input type="text" asp-for="CPF" class="form-control" readonly>
+                <span asp-validation-for="CPF"></span>
             </div>
 
             <div class="form-group">

@@ -195,6 +195,8 @@ namespace AppLogin.Repository
                 MySqlCommand cmd = new MySqlCommand("update Cliente set Situacao=@Situacao WHERE Id=@Id", conexao);
                 cmd.Parameters.Add("@Id", MySqlDbType.VarChar).Value = Id;
                 cmd.Parameters.Add("@Situacao", MySqlDbType.VarChar).Value = Situacao;
+
+                cmd.ExecuteNonQuery();
                 conexao.Close();
             }
         }
@@ -208,6 +210,8 @@ namespace AppLogin.Repository
                 MySqlCommand cmd = new MySqlCommand("update Cliente set Situacao=@Situacao WHERE Id=@Id", conexao);
                 cmd.Parameters.Add("@Id", MySqlDbType.VarChar).Value = Id;
                 cmd.Parameters.Add("@Situacao", MySqlDbType.VarChar).Value = Situacao;
+
+                cmd.ExecuteNonQuery();
                 conexao.Close();
             }
         }
