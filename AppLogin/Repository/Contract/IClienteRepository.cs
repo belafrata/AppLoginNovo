@@ -15,6 +15,8 @@ namespace AppLogin.Repository.Contract
         void Ativar(int Id);
         void Desativar(int Id);
         Cliente ObterCliente(int Id);
+        Cliente BuscaCpfCliente(string CPF);
+        Cliente BuscaEmailCliente(string email);
         IEnumerable<Cliente> ObterTodosClientes();
 
         IPagedList<Cliente> ObterTodosClientes(int? pagina, string pesquisa);
