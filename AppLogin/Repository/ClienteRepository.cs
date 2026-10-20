@@ -217,5 +217,47 @@ namespace AppLogin.Repository
             }
 
         }
+        //Busca cpf cadastrado
+        public Cliente BuscaCpfCliente(string CPF)
+        {
+           using (var conexao = new MylConnection(_conexaoMySql))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("select CPF from cliente WHERE CPF=CPF", conexao);
+                cmd.Parameters.AddWithValue("@CPF", CPF);
+
+                MySqlDataAdapter da= new MySqlDataAdapter(cmd);
+                MySqlDataReader dr;
+
+                Cliente cliente = new Cliente();
+                dr = cmd.ExecuteReader(commandBehavior.CloseConnection);
+                while (dr.Read())
+                {
+                    cliente.CPF = (string)(dr["CPF"]);
+                }
+                return cliente;
+            }
+        }
+     public Cliente BuscaEmailCliente (string email)
+        {
+            conexao.Open():
+            MySqlCommand cmd = new MySqlCommand("select Email from Cliente WHERE Email=@Email", conexao);
+            cmd.Parameters.AddWithValue ("@Email", email);
+                
+            MySqlDataAdapter dA = new MySqlDataAdapter(cmd);
+            MySqlDataReader dr;
+
+            Cliente cliente = new Cliente();
+            dr = cmd.ExecuteReader(CommandBehavior.CloseConnection);
+            while (dr.Read())
+            {
+                cliente.Email = (string(dr["Email"]);
+            }
+            return cliente;
+
+        }
+
+
+
     }
 }

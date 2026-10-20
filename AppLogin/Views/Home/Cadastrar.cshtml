@@ -49,6 +49,11 @@
                                 </label>
                                 <span asp-validation-for="Sexo" class="text-danger"></span>
                             </div>
+                            <div class=" colform-group">
+                              <label asp-for="Nascimento">Nascimento</label>
+                              <input type="text" asp-for="Nascimento" class="form-control Nascmento" placeholder="000.000.000-00">
+                              <span asp-validation-for="Nascimento" class="text-danger"></span>
+                            </div>
                             <div class="form-group">
                                 <label asp-for="CPF">CPF</label>
                                 @if (ViewData["MSG_CPF"] != null)

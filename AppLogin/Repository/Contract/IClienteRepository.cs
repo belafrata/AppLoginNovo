@@ -19,6 +19,12 @@ namespace AppLogin.Repository.Contract
 
         void Ativar(int id);
         void Desativar(int id);
+        //busca por CPF
+        Cliente BuscaCpfCliente(string CPF);
+        //busca por email
+        Cliente BuscaEmailCliente(string email);
     }
+     
+
 
 }
