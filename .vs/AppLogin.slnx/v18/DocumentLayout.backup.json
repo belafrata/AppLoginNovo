@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\areas\\colaborador\\controllers\\api\\clienteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\controllers\\api\\clienteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\libraries\\middleware\\validateantiforgerytokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\libraries\\middleware\\validateantiforgerytokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\libraries\\filtro\\validatehttprefererattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\libraries\\filtro\\validatehttprefererattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\areas\\colaborador\\controllers\\api\\clienteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\controllers\\api\\clienteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,17 +130,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ClienteApiController.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Controllers\\API\\ClienteApiController.cs",
               "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Controllers\\API\\ClienteApiController.cs",
               "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Controllers\\API\\ClienteApiController.cs",
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Controllers\\API\\ClienteApiController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwCUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T11:05:41.808Z",
               "EditorCaption": ""
@@ -155,18 +155,17 @@
               "RelativeToolTip": "AppLogin\\Views\\Home\\Cadastrar.cshtml",
               "ViewState": "AgIAAAgAAAAAAAAAAABRwBcAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-30T11:47:22.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-30T11:47:22.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ValidateAntiForgeryTokenMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
               "RelativeDocumentMoniker": "AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
               "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
               "RelativeToolTip": "AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-19T14:13:18.949Z",
               "EditorCaption": ""
@@ -181,8 +180,7 @@
               "RelativeToolTip": "AppLogin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAIBJwEUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-20T21:33:01.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T21:33:01.073Z"
             },
             {
               "$type": "Document",
@@ -194,8 +192,7 @@
               "RelativeToolTip": "AppLogin\\Repository\\ClienteRepository.cs",
               "ViewState": "AgIAAHgAAAAAAAAAAAAQwIkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T11:31:12.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T11:31:12.215Z"
             },
             {
               "$type": "Document",
@@ -207,12 +204,11 @@
               "RelativeToolTip": "AppLogin\\Repository\\Contract\\IClienteRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T11:30:08.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T11:30:08.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ValidateHttpRefererAttribute.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Filtro\\ValidateHttpRefererAttribute.cs",
               "RelativeDocumentMoniker": "AppLogin\\Libraries\\Filtro\\ValidateHttpRefererAttribute.cs",
@@ -220,8 +216,7 @@
               "RelativeToolTip": "AppLogin\\Libraries\\Filtro\\ValidateHttpRefererAttribute.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T11:58:12.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-30T11:58:12.253Z"
             },
             {
               "$type": "Document",
@@ -233,8 +228,7 @@
               "RelativeToolTip": "AppLogin\\Models\\Cliente.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAA0wC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T21:02:29.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T21:02:29.388Z"
             },
             {
               "$type": "Document",
@@ -246,8 +240,7 @@
               "RelativeToolTip": "AppLogin\\Program.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T12:03:26.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T12:03:26.65Z"
             },
             {
               "$type": "Document",
@@ -259,8 +252,7 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T11:19:42.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-15T11:19:42.442Z"
             },
             {
               "$type": "Document",
@@ -272,8 +264,7 @@
               "RelativeToolTip": "AppLogin\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-19T13:04:41.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T13:04:41.122Z"
             },
             {
               "$type": "Document",
@@ -285,8 +276,7 @@
               "RelativeToolTip": "AppLogin\\Repository\\ColaboradorRepository.cs",
               "ViewState": "AgIAAG8AAAAAAAAAAAAQwIQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T11:19:34.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-30T11:19:34.989Z"
             },
             {
               "$type": "Document",
@@ -298,8 +288,7 @@
               "RelativeToolTip": "AppLogin\\Views\\Home\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-16T12:14:06.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T12:14:06.443Z"
             },
             {
               "$type": "Document",
@@ -311,8 +300,7 @@
               "RelativeToolTip": "AppLogin\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T14:46:29.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T14:46:29.256Z"
             },
             {
               "$type": "Document",
@@ -324,8 +312,7 @@
               "RelativeToolTip": "AppLogin\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-20T12:18:08.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T12:18:08.315Z"
             },
             {
               "$type": "Document",
@@ -337,8 +324,7 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Cliente\\Cadastrar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-15T12:19:49.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-15T12:19:49.004Z"
             },
             {
               "$type": "Document",
@@ -350,8 +336,7 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAIBJwCIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T11:24:51.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T11:24:51.149Z"
             },
             {
               "$type": "Document",
@@ -363,8 +348,7 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Atualizar.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwB0AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T11:58:18.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T11:58:18.764Z"
             },
             {
               "$type": "Document",
@@ -376,8 +360,7 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Cliente\\Index.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAIBJwBoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-15T12:22:38.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-15T12:22:38.212Z"
             },
             {
               "$type": "Document",
@@ -389,8 +372,7 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Cadastrar.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAIBJwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T11:46:06.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T11:46:06.242Z"
             },
             {
               "$type": "Document",
@@ -402,8 +384,7 @@
               "RelativeToolTip": "AppLogin\\Libraries\\Filtro\\ColaboradorAutorizacaoAttribute.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T11:40:02.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-19T11:40:02.209Z"
             },
             {
               "$type": "Document",
@@ -415,8 +396,7 @@
               "RelativeToolTip": "AppLogin\\Libraries\\Sessao\\Sessao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T12:08:59.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T12:08:59.285Z"
             },
             {
               "$type": "Document",
@@ -428,8 +408,7 @@
               "RelativeToolTip": "AppLogin\\Models\\Colaborador.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T11:27:31.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-30T11:27:31.454Z"
             },
             {
               "$type": "Document",
@@ -441,8 +420,7 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Home\\Login.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwBYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-19T13:07:41.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T13:07:41.196Z"
             },
             {
               "$type": "Document",
@@ -454,8 +432,7 @@
               "RelativeToolTip": "AppLogin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-30T12:00:32.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-30T12:00:32.428Z"
             },
             {
               "$type": "Document",
@@ -467,8 +444,7 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Controllers\\ColaboradorController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAmwD8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T11:12:30.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T11:12:30.726Z"
             },
             {
               "$type": "Document",
@@ -480,8 +456,7 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAE0AAAAAAAAAAAAkwDUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-19T12:18:36.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-19T12:18:36.742Z"
             },
             {
               "$type": "Document",
@@ -493,8 +468,7 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T12:56:47.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T12:56:47.356Z"
             },
             {
               "$type": "Document",
@@ -506,8 +480,7 @@
               "RelativeToolTip": "AppLogin\\Libraries\\Filtro\\ClienteAutorizacaoAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T11:19:19.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-19T11:19:19.125Z"
             },
             {
               "$type": "Document",
@@ -519,8 +492,7 @@
               "RelativeToolTip": "AppLogin\\Libraries\\Login\\LoginColaborador.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T12:21:00.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T12:21:00.103Z"
             }
           ]
         }
