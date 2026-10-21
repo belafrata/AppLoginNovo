@@ -513,3 +513,7 @@ C:\Users\ifrat\OneDrive\Área de Trabalho\AppLoginNovo\AppLogin\obj\Debug\net10.
 C:\Users\ifrat\OneDrive\Área de Trabalho\AppLoginNovo\AppLogin\obj\Debug\net10.0\ref\AppLogin.dll
 C:\Users\ifrat\OneDrive\Área de Trabalho\AppLoginNovo\AppLogin\obj\Debug\net10.0\compressed\564jx3d1hm-{0}-pcqmnmcqu9-pcqmnmcqu9.gz
 C:\Users\ifrat\OneDrive\Área de Trabalho\AppLoginNovo\AppLogin\obj\Debug\net10.0\compressed\yhhi98u64v-{0}-6g9cgyi5ef-6g9cgyi5ef.gz
+C:\Users\ifrat\OneDrive\Área de Trabalho\AppLoginNovo\AppLogin\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ifrat\OneDrive\Área de Trabalho\AppLoginNovo\AppLogin\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ifrat\OneDrive\Área de Trabalho\AppLoginNovo\AppLogin\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ifrat\OneDrive\Área de Trabalho\AppLoginNovo\AppLogin\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\libraries\\middleware\\validateantiforgerytokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\libraries\\middleware\\validateantiforgerytokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\libraries\\filtro\\validatehttprefererattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\libraries\\filtro\\validatehttprefererattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\areas\\colaborador\\controllers\\api\\clienteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\controllers\\api\\clienteapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\areas\\colaborador\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\libraries\\filtro\\colaboradorautorizacaoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\libraries\\filtro\\validatehttprefererattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\libraries\\filtro\\validatehttprefererattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\areas\\colaborador\\controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -95,18 +111,6 @@
       "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\areas\\colaborador\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\areas\\colaborador\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\libraries\\middleware\\validateantiforgerytokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\libraries\\middleware\\validateantiforgerytokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\apploginnovo\\applogin\\libraries\\filtro\\clienteautorizacaoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A55E11-C959-2B0B-9A41-1BA4068DE89E}|AppLogin\\AppLogin.csproj|solutionrelative:applogin\\libraries\\filtro\\clienteautorizacaoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -126,43 +130,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AppLogin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AppLogin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-20T21:33:01.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "AppLogin\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Models\\Cliente.cs",
-              "RelativeToolTip": "AppLogin\\Models\\Cliente.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Title": "ClienteApiController.cs",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Controllers\\API\\ClienteApiController.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Controllers\\API\\ClienteApiController.cs",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Controllers\\API\\ClienteApiController.cs",
+              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Controllers\\API\\ClienteApiController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T21:02:29.388Z",
+              "WhenOpened": "2026-10-21T11:05:41.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Cadastrar.cshtml",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Views\\Home\\Cadastrar.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Views\\Home\\Cadastrar.cshtml",
               "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Views\\Home\\Cadastrar.cshtml",
               "RelativeToolTip": "AppLogin\\Views\\Home\\Cadastrar.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwBcAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-30T11:47:22.541Z",
               "EditorCaption": ""
@@ -170,6 +161,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ValidateAntiForgeryTokenMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
+              "RelativeToolTip": "AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T14:13:18.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppLogin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppLogin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAIBJwEUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T21:33:01.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Repository\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "AppLogin\\Repository\\ClienteRepository.cs",
@@ -182,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Repository\\Contract\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "AppLogin\\Repository\\Contract\\IClienteRepository.cs",
@@ -190,11 +207,64 @@
               "RelativeToolTip": "AppLogin\\Repository\\Contract\\IClienteRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T11:30:08.034Z"
+              "WhenOpened": "2026-09-16T11:30:08.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidateHttpRefererAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Filtro\\ValidateHttpRefererAttribute.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Libraries\\Filtro\\ValidateHttpRefererAttribute.cs",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Filtro\\ValidateHttpRefererAttribute.cs",
+              "RelativeToolTip": "AppLogin\\Libraries\\Filtro\\ValidateHttpRefererAttribute.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:58:12.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Models\\Cliente.cs",
+              "RelativeToolTip": "AppLogin\\Models\\Cliente.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA0wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T21:02:29.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Program.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Program.cs",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Program.cs",
+              "RelativeToolTip": "AppLogin\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:03:26.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:19:42.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\appsettings.json",
               "RelativeDocumentMoniker": "AppLogin\\appsettings.json",
@@ -202,11 +272,12 @@
               "RelativeToolTip": "AppLogin\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-19T13:04:41.122Z"
+              "WhenOpened": "2026-06-19T13:04:41.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ColaboradorRepository.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Repository\\ColaboradorRepository.cs",
               "RelativeDocumentMoniker": "AppLogin\\Repository\\ColaboradorRepository.cs",
@@ -214,23 +285,25 @@
               "RelativeToolTip": "AppLogin\\Repository\\ColaboradorRepository.cs",
               "ViewState": "AgIAAG8AAAAAAAAAAAAQwIQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T11:19:34.989Z"
+              "WhenOpened": "2026-09-30T11:19:34.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Views\\Home\\Login.cshtml",
               "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "AppLogin\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-16T12:14:06.443Z"
+              "WhenOpened": "2026-09-16T12:14:06.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AppLogin\\Controllers\\HomeController.cs",
@@ -238,11 +311,12 @@
               "RelativeToolTip": "AppLogin\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T14:46:29.256Z"
+              "WhenOpened": "2026-09-16T14:46:29.256Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "AppLogin\\wwwroot\\js\\site.js",
@@ -250,11 +324,12 @@
               "RelativeToolTip": "AppLogin\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-20T12:18:08.315Z"
+              "WhenOpened": "2026-10-20T12:18:08.315Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Cadastrar.cshtml",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Cliente\\Cadastrar.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Cliente\\Cadastrar.cshtml",
@@ -262,59 +337,64 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Cliente\\Cadastrar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-15T12:19:49.004Z"
+              "WhenOpened": "2026-09-15T12:19:49.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Index.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Index.cshtml",
               "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Index.cshtml",
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T11:24:51.149Z"
+              "WhenOpened": "2026-09-29T11:24:51.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Atualizar.cshtml",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Atualizar.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Atualizar.cshtml",
               "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Atualizar.cshtml",
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Atualizar.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwB0AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T11:58:18.764Z"
+              "WhenOpened": "2026-09-29T11:58:18.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Cliente\\Index.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Cliente\\Index.cshtml",
               "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Cliente\\Index.cshtml",
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Cliente\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwBoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-15T12:22:38.212Z"
+              "WhenOpened": "2026-09-15T12:22:38.212Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Cadastrar.cshtml",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Cadastrar.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Cadastrar.cshtml",
               "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Cadastrar.cshtml",
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Colaborador\\Cadastrar.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-29T11:46:06.242Z"
+              "WhenOpened": "2026-09-29T11:46:06.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "ColaboradorAutorizacaoAttribute.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Filtro\\ColaboradorAutorizacaoAttribute.cs",
               "RelativeDocumentMoniker": "AppLogin\\Libraries\\Filtro\\ColaboradorAutorizacaoAttribute.cs",
@@ -322,11 +402,12 @@
               "RelativeToolTip": "AppLogin\\Libraries\\Filtro\\ColaboradorAutorizacaoAttribute.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T11:40:02.209Z"
+              "WhenOpened": "2026-08-19T11:40:02.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Sessao.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Sessao\\Sessao.cs",
               "RelativeDocumentMoniker": "AppLogin\\Libraries\\Sessao\\Sessao.cs",
@@ -334,47 +415,38 @@
               "RelativeToolTip": "AppLogin\\Libraries\\Sessao\\Sessao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T12:08:59.285Z"
+              "WhenOpened": "2026-06-19T12:08:59.285Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Colaborador.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Models\\Colaborador.cs",
               "RelativeDocumentMoniker": "AppLogin\\Models\\Colaborador.cs",
               "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Models\\Colaborador.cs",
               "RelativeToolTip": "AppLogin\\Models\\Colaborador.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T11:27:31.454Z"
+              "WhenOpened": "2026-09-30T11:27:31.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Home\\Login.cshtml",
               "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-19T13:07:41.196Z"
+              "WhenOpened": "2026-06-19T13:07:41.196Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ValidateHttpRefererAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Filtro\\ValidateHttpRefererAttribute.cs",
-              "RelativeDocumentMoniker": "AppLogin\\Libraries\\Filtro\\ValidateHttpRefererAttribute.cs",
-              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Filtro\\ValidateHttpRefererAttribute.cs",
-              "RelativeToolTip": "AppLogin\\Libraries\\Filtro\\ValidateHttpRefererAttribute.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwB8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T11:58:12.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -382,11 +454,12 @@
               "RelativeToolTip": "AppLogin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-30T12:00:32.428Z"
+              "WhenOpened": "2026-09-30T12:00:32.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "ColaboradorController.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Controllers\\ColaboradorController.cs",
               "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Controllers\\ColaboradorController.cs",
@@ -394,11 +467,12 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Controllers\\ColaboradorController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAmwD8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T11:12:30.726Z"
+              "WhenOpened": "2026-09-29T11:12:30.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
@@ -406,59 +480,25 @@
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAE0AAAAAAAAAAAAkwDUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-19T12:18:36.742Z"
+              "WhenOpened": "2026-08-19T12:18:36.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T12:56:47.356Z"
+              "WhenOpened": "2026-06-19T12:56:47.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ValidateAntiForgeryTokenMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
-              "RelativeDocumentMoniker": "AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
-              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
-              "RelativeToolTip": "AppLogin\\Libraries\\Middleware\\ValidateAntiForgeryTokenMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T14:13:18.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "AppLogin\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "AppLogin\\Areas\\Colaborador\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T11:19:42.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Program.cs",
-              "RelativeDocumentMoniker": "AppLogin\\Program.cs",
-              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Program.cs",
-              "RelativeToolTip": "AppLogin\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T12:03:26.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ClienteAutorizacaoAttribute.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Filtro\\ClienteAutorizacaoAttribute.cs",
               "RelativeDocumentMoniker": "AppLogin\\Libraries\\Filtro\\ClienteAutorizacaoAttribute.cs",
@@ -466,11 +506,12 @@
               "RelativeToolTip": "AppLogin\\Libraries\\Filtro\\ClienteAutorizacaoAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T11:19:19.125Z"
+              "WhenOpened": "2026-08-19T11:19:19.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "LoginColaborador.cs",
               "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\AppLoginNovo\\AppLogin\\Libraries\\Login\\LoginColaborador.cs",
               "RelativeDocumentMoniker": "AppLogin\\Libraries\\Login\\LoginColaborador.cs",
@@ -478,7 +519,8 @@
               "RelativeToolTip": "AppLogin\\Libraries\\Login\\LoginColaborador.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T12:21:00.103Z"
+              "WhenOpened": "2026-06-19T12:21:00.103Z",
+              "EditorCaption": ""
             }
           ]
         }

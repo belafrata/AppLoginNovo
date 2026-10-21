@@ -24,6 +24,10 @@ builder.Services.AddSession(options =>{
 });
 builder.Services.AddMvc().AddSessionStateTempDataProvider();
 
+//swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 builder.Services.AddScoped<AppLogin.Libraries.Sessao.Sessao>();
 builder.Services.AddScoped<LoginCliente>();
 builder.Services.AddScoped<LoginColaborador>();
@@ -32,11 +36,21 @@ builder.Services.AddHttpContextAccessor();
 
 var app = builder.Build();
 
+// swagger
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
 }
+
+// controllers mvc e api
+app.MapControllers();
 
 app.UseCookiePolicy();
 app.UseSession();
