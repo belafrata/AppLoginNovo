@@ -83,5 +83,26 @@ namespace AppLogin.Areas.Colaborador.Controllers.API
                 mensagem = "Cliente atualizado com sucesso."
             });
         }
+
+        [HttpDelete("{id}")]
+        public IActionResult Excluir(int id)
+        {
+            var cliente = _clienteRepository.ObterCliente(id);
+
+            if (cliente == null)
+            {
+                return NotFound(new
+                {
+                    mensagem = "Cliente não encontrado"
+                });
+            }
+
+            _clienteRepository.Excluir(id);
+
+            return Ok(new
+            {
+                mensagem = "Cliente excluído com sucesso."
+            });
+        }
     }
 }

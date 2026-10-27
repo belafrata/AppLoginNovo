@@ -61,5 +61,31 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppLogin.Areas.Colaborador.Controllers.API.ClienteApiController",
+    "Method": "Excluir",
+    "RelativePath": "api/ClienteApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppLogin.Areas.Colaborador.Controllers.API.ColaboradorApiController",
+    "Method": "ListarColaboradores",
+    "RelativePath": "api/ColaboradorApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]
